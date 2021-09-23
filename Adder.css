@@ -1,0 +1,29 @@
+body{
+  background:black;
+  color:red;
+}
+p{
+  font-size: 20px;
+}
+hr{
+  color: red;
+  border: dashed;
+  background-color: black;
+}
+input{
+  height: 45px;
+  width: 45px;
+  color: red;
+  background-color: black;
+  border-color: red;
+}
+input:hover{
+  height: 43px;
+  width: 43px;
+  color: blue;
+  background-color: black;
+  border-color: blue;
+}
+h1{
+font-size: 50px;
+}
